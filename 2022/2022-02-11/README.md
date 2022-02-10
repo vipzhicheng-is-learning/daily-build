@@ -2,4 +2,10 @@
 
 ## 计划
 
-从头构建 vue3 + unplug-auto-import，体验不需要写导入语句的用法
+基于 vite, vue3 来整合 codemirror 代码编辑器，重点探索里面的vim+markdown模式
+
+## 依赖
+
+* vue3
+* vite
+* codemirror
