@@ -1,7 +1,7 @@
-# Daily build
+# 每日构建
 
-## What is this
+## 这是个什么项目
 
-It's a project for practicing build skills, there are so many possibilies about program building which I want to learn by doing.
+这是一个学习构建技能的项目，这里的构建不特指某一种技术栈，而是发现很多技术都需要构建，通过构建可以交叉理解不同的构建模式，争取能高频尝试不同的构建方式，但是不保证不重复。
 
-Maybe it's dup on somedays, but It's just a demo project I dup because I forget.
+尤其是前端，现在发展太快了，需要不断学习跟进。本项目不涉及各种相关技术的细节，重点是体验各种组合，以此为抓手，逐渐熟悉和了解各种技术。
