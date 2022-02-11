@@ -22,6 +22,7 @@
     "vue-tsc": "^0.31.2"
   },
   "dependencies": {
+    "code-mirror-themes": "^1.0.0",
     "codemirror": "^5.65.1",
     "vue": "^3.2.30"
   }
