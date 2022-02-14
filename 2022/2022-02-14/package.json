@@ -1,12 +1,16 @@
 {
   "name": "2022-02-14",
   "version": "1.0.0",
-  "description": "",
+  "description": "## 计划",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "slidev"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@slidev/cli": "^0.28.5",
+    "@slidev/theme-default": "^0.21.1"
+  }
 }
