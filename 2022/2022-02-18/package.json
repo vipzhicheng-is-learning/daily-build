@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "vitest",
+    "test:ui": "vitest --ui",
+    "test:run": "vitest run",
     "coverage": "vitest run --coverage"
   },
   "exports": {
@@ -18,6 +21,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@vitest/ui": "^0.4.2",
+    "c8": "^7.11.0",
     "typescript": "^4.5.5",
     "vite": "^2.8.3",
     "vitest": "^0.4.0"
